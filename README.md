@@ -154,7 +154,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 <br/>
 
-## React Library 📚 :
+## React Library 📚
 
 - 🚀 **Lazy Loading**: Enhance performance by lazily loading images using the react-lazy-load-image library.
 - 📊 **Chart.js:**  Versatile charting library for creating interactive and visually appealing charts.
@@ -169,7 +169,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 
 
-## Screen Preview 🖥️  :
+## Screen Preview 🖥️
 
 # Random Home Page Background 🏠 
 <img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home2.png' />
