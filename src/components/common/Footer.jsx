@@ -171,7 +171,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="flex items-center">
+          <div className="flex align-items-center">
             <div className="text-center flex flex-col sm:flex-row ">
               <div className="flex ">
                 <span> Made with ❤️ </span>
