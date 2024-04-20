@@ -46,8 +46,6 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 <br/>
 1️⃣ A seamless and interactive learning experience for students, making education more accessible and engaging.<br/>
 2️⃣ A platform for instructors to showcase their expertise and connect with learners across the globe.<br/>
-
-<br/>
 <br/>
 
 ## Tech Stack 💻🔧 
@@ -70,11 +68,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 ## Cloudinary Integration ☁️
 <code title="cloudinary"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
-
 <hr/>
-
-
-
 
 ## System Architecture 🏰
 <br/>
@@ -160,7 +154,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 <br/>
 
-## 📚 **React Library**:
+## React Library 📚 :
 
 - 🚀 **Lazy Loading**: Enhance performance by lazily loading images using the react-lazy-load-image library.
 - 📊 **Chart.js:**  Versatile charting library for creating interactive and visually appealing charts.
@@ -175,7 +169,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 
 
-##  🖥️ Screen Preview :
+## Screen Preview 🖥️  :
 
 # Random Home Page Background 🏠 
 <img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home2.png' />
