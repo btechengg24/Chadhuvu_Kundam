@@ -1,4 +1,3 @@
-
 <img src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/src/assets/Logo/Logo-Full-Light.png' />
 
 # Project Description 📝
