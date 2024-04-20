@@ -20,7 +20,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
         <a href="https://github.com/btechengg24" spellcheck="false">
           <img src="https://avatars.githubusercontent.com/u/151559011?v=4" width="120px;" alt="Likhit" style="border-radius: 5px;"/>
           <br />
-          <b>G Likhit Reddy</b>
+          <b text-align:center>G Likhit Reddy</b>
         </a>
         <br/>
     </td>
