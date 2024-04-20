@@ -1,14 +1,16 @@
 
-<img src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/src/assets/Logo/Logo-Full-Light.png' />
+<img src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/src/assets/Logo/Logo-Full-Light.png' />
 
 # Project Description 📝
 StudyNotion-ChadhuvuKundam is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
+<code title="MERN"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/mern.png'"></code>
+
 <h2>Live link 🌍 - [https://studynotion-chadhuvukundam.onrender.com/]</h2>
 <hr/>
 
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/home%201.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home1.png' />
 
 ## Contributor
 
@@ -20,7 +22,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
           <br />
           <b>G Likhit Reddy</b>
         </a>
-        <br />
+        <br/>
     </td>
 </table>
 
@@ -47,29 +49,27 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <br/>
 <br/>
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
-
 
 ## Tech Stack 💻🔧 
 
 ## Frontend 🎨 : 
-<code title="React.js"><img height="40" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
-<code title="Vite"><img height="40" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/Vitejs-logo.png"></code>
-<code title="Redux.js"><img height="35" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/redux-logo.png"></code>
-<code title="css"><img height="40" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/css%20logo.png"></code>
-<code title="Tailwind css"><img height="35" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/tailwind%20css%20logo.png"></code>
+<code title="React.js"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
+<code title="Vite"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/Vitejs-logo.png"></code>
+<code title="Redux.js"><img height="35" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/redux-logo.png"></code>
+<code title="css"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/css%20logo.png"></code>
+<code title="Tailwind css"><img height="35" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/tailwind%20css%20logo.png"></code>
 
 
 ## Backend ⚙️ :
-<code title="Nodejs"><img height="50" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/nodejs-logo.png"></code>
-<code title="Express"><img height="70" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/express%20logo.png"></code>
+<code title="Nodejs"><img height="50" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/nodejs-logo.png"></code>
+<code title="Express"><img height="70" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/express%20logo.png"></code>
 
 
 ## Database 🛢️ :
-<code title="Mongodb"><img height="40" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/mongodb%20logo.png"></code>
+<code title="Mongodb"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/mongodb%20logo.png"></code>
 
 ## Cloudinary Integration ☁️
-<code title="cloudinary"><img height="40" src="https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
+<code title="cloudinary"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
 
 <hr/>
 
@@ -90,15 +90,6 @@ The back end of the platform is built using NodeJS and ExpressJS, which are popu
 🛢️ Database  <br/>
 The database for the platform is built using MongoDB, which is a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data, which is useful for storing course content such as videos, images, and PDFs. The database stores the course content, user data, and other relevant information related to the platform.
 
-
-
-## Architecture Diagram
-<br/>
-Here is a high-level diagram that illustrates the architecture of the StudyNotion-ChadhuvuKundam ed-tech platform:
-<img width='60%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Architecture%20Diagram.png' />
-
-
-<hr/>
 
 #### The front end of StudyNotion-ChadhuvuKundam has all the necessary pages that an ed-tech platform should have. Some of these pages are: 
 
@@ -146,7 +137,7 @@ The back-end of StudyNotion-ChadhuvuKundam uses several data models and database
 The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
 
 ## Schema 📋
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/Schema.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/db%20schema.png' />
 
 <hr/>
 
@@ -187,64 +178,60 @@ Utilized several React hooks for efficient state management and dynamic behavior
 ##  🖥️ Screen Preview :
 
 # Random Home Page Background 🏠 
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/home3.png' />
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/home4.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home2.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home3.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home4.png' />
 
 # About Page
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/about.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/about.png' />
 
 # Contact Page
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/contact.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/contact.png' />
 
-# Forgot passwornd
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/forgot%20pass.png' />
+# Forgot password
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/forgot%20password.png' />
 
-# Dashboard
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/dashboard.png' />
+# Student Dashboard
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/student%20dashboard.png' />
 
 # Edit Profile
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/edit%20profile.png' />
-
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/edit%20profile.png' />
 
 # Add Course
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/add%20course.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/add%20course.png' />
 
 # Edit Course
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/edit%20course.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/edit%20course.png' />
 
 # Course Details 1
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/course%20details1.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/course%20details%201.png' />
 
 # Course Details 2
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/course%20details2.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/coursed%20details%202.png' />
 
 # Add Review
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/add%20review.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/add%20review.png />
 
-# Cart1
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/cart%201.png' />
+# Cart
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/cart.png' />
 
+# Enrolled Courses
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/enrolled%20courses.png' />
 
-
-
-# Enrolled Courses 1
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/enrolled%20courses.png' />
-
-# Instructor Data 1
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/instrctor%20data.png' />
+# Instructor Data
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/instructor%20dashboard.png' />
 
 # My Courses 1
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/myCourses1.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/enrolled%20courses.png' />
 
 # View Courses 1
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/view%20course1.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/view%20course%201.png' />
 
 # View Courses 2
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/view%20course2.png' />
-
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/view%20course%202.png' />
 
 # Delete Account
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/delete%20account.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/delete%20account.png' />
 
 # Footer
-<img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/footer.png' />
+<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/footer.png' />
