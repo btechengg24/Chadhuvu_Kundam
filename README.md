@@ -1,6 +1,3 @@
-
-<img src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/src/assets/Logo/Logo-Full-Light.png' />
-
 # Project Description 📝
 Chadhuvu Kundam is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
