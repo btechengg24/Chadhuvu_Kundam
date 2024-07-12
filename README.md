@@ -1,16 +1,16 @@
 
-<img src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/src/assets/Logo/Logo-Full-Light.png' />
+<img src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/src/assets/Logo/Logo-Full-Light.png' />
 
 # Project Description 📝
-StudyNotion-ChadhuvuKundam is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
+Chadhuvu Kundam is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
-<code title="MERN"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/mern.png'"></code>
+<code title="MERN"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/mern.png'"></code>
 
 <h2>Live link 🌍 - [https://studynotion-chadhuvukundam.onrender.com/]</h2>
 <hr/>
 
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home1.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/home1.png' />
 
 ## Contributor
 
@@ -31,7 +31,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 | Section                 | Description                                  |
 |-------------------------|----------------------------------------------|
-| [StudyNotion-ChadhuvuKundam Aim](#StudyNotion-ChadhuvuKundam-aim-)        | 📚 Overview of StudyNotion-ChadhuvuKundam's goals            |
+| [Chadhuvu Kundam Aim](#Chadhuvu_Kundam-aim-)        | 📚 Overview of Chadhuvu Kundam's goals            |
 | [Tech Stack](#tech-stack-)             | 💻🔧 Technologies used in the project         |
 | [System Architecture](#system-architecture-)    | 🏰 Overview of the system architecture      |
 | [Architecture Diagram](#architecture-diagram)   | 🏗️ Diagram illustrating the architecture   |
@@ -41,7 +41,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 | [Screen Preview](#screen-preview-)         | 🖥️ Screen Preview        |
 
 
-## StudyNotion-ChadhuvuKundam Aim 📚 
+## ChadhuvuKundam Aim 📚 
 
 <br/>
 1️⃣ A seamless and interactive learning experience for students, making education more accessible and engaging.<br/>
@@ -51,28 +51,28 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 ## Tech Stack 💻🔧 
 
 ## Frontend 🎨 : 
-<code title="React.js"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
-<code title="Vite"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/Vitejs-logo.png"></code>
-<code title="Redux.js"><img height="35" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/redux-logo.png"></code>
-<code title="css"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/css%20logo.png"></code>
-<code title="Tailwind css"><img height="35" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/tailwind%20css%20logo.png"></code>
+<code title="React.js"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/react%20ogo.png"></code>
+<code title="Vite"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/Vitejs-logo.png"></code>
+<code title="Redux.js"><img height="35" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/redux-logo.png"></code>
+<code title="css"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/css%20logo.png"></code>
+<code title="Tailwind css"><img height="35" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/tailwind%20css%20logo.png"></code>
 
 
 ## Backend ⚙️ :
-<code title="Nodejs"><img height="50" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/nodejs-logo.png"></code>
-<code title="Express"><img height="70" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/express%20logo.png"></code>
+<code title="Nodejs"><img height="50" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/nodejs-logo.png"></code>
+<code title="Express"><img height="70" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/express%20logo.png"></code>
 
 
 ## Database 🛢️ :
-<code title="Mongodb"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/mongodb%20logo.png"></code>
+<code title="Mongodb"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/mongodb%20logo.png"></code>
 
 ## Cloudinary Integration ☁️
-<code title="cloudinary"><img height="40" src="https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
+<code title="cloudinary"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/cloudinary-logo.jpg"></code>
 <hr/>
 
 ## System Architecture 🏰
 <br/>
-☝ The StudyNotion-ChadhuvuKundam ed-tech platform consists of three main components:  <br/>
+☝ The ChadhuvuKundam ed-tech platform consists of three main components:  <br/>
 The front end, the back end, and the database. The platform follows a client-server architecture, with the front end serving as the client and the back end and database serving as the server.
 
 🎨 Front-end  <br/>
@@ -85,7 +85,7 @@ The back end of the platform is built using NodeJS and ExpressJS, which are popu
 The database for the platform is built using MongoDB, which is a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data, which is useful for storing course content such as videos, images, and PDFs. The database stores the course content, user data, and other relevant information related to the platform.
 
 
-#### The front end of StudyNotion-ChadhuvuKundam has all the necessary pages that an ed-tech platform should have. Some of these pages are: 
+#### The front end of ChadhuvuKundam has all the necessary pages that an ed-tech platform should have. Some of these pages are: 
 
 For Students:
 - **Homepage 🏠:** A brief introduction to the platform with links to the course list and user details and random background.
@@ -113,14 +113,14 @@ The back-end of the platform is built using NodeJS and ExpressJS, providing APIs
 - **User Authentication and Authorization 🔐:** Students and instructors can sign up and log in to the platform using their email addresses and passwords. The platform also supports OTP (One-Time Password) verification and forgot password functionality for added security.
 - **Course Management 🛠️:** Instructors can create, read, update, and delete courses, as well as manage course content and media. Students can view and rate courses.
 - **Payment Integration 💳:** Students will purchase and enroll in courses by completing the checkout flow, followed by Razorpay integration for payment handling.
-- **Cloud-based Media Management ☁️ :** StudyNotion-ChadhuvuKundam uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
+- **Cloud-based Media Management ☁️ :** ChadhuvuKundam uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 - **Markdown Formatting ✍️:** Course content in document format is stored in Markdown format, allowing for easier display and rendering on the front-end.
 
 
 
 #### Data Models and Database Schema
 
-The back-end of StudyNotion-ChadhuvuKundam uses several data models and database schemas to manage data, including:
+The back-end of ChadhuvuKundam uses several data models and database schemas to manage data, including:
 
 - **Student Schema 🧑‍🎓:** Includes fields such as name, email, password, and course details for each student.
 - **Instructor Schema 👩‍🏫:** Includes fields such as name, email, password, and course details for each instructor.
@@ -131,7 +131,7 @@ The back-end of StudyNotion-ChadhuvuKundam uses several data models and database
 The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
 
 ## Schema 📋
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/db%20schema.png' />
+<img width='100%' src='https://github.com/btechengg24/ChadhuvuKundam/blob/main/screenshots/db%20schema.png' />
 
 <hr/>
 
@@ -172,60 +172,60 @@ Utilized several React hooks for efficient state management and dynamic behavior
 ## Screen Preview 🖥️
 
 # Random Home Page Background 🏠 
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home2.png' />
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home3.png' />
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/home4.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/home2.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/home3.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/home4.png' />
 
 # About Page
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/about.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/about.png' />
 
 # Contact Page
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/contact.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/contact.png' />
 
 # Forgot password
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/forgot%20password.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/forgot%20password.png' />
 
 # Student Dashboard
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/student%20dashboard.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/student%20dashboard.png' />
 
 # Edit Profile
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/edit%20profile.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/edit%20profile.png' />
 
 # Add Course
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/add%20course.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/add%20course.png' />
 
 # Edit Course
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/edit%20course.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/edit%20course.png' />
 
 # Course Details 1
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/course%20details%201.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/course%20details%201.png' />
 
 # Course Details 2
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/coursed%20details%202.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/coursed%20details%202.png' />
 
 # Add Review
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/add%20review.png />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/add%20review.png />
 
 # Cart
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/cart.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/cart.png' />
 
 # Enrolled Courses
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/enrolled%20courses.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/enrolled%20courses.png' />
 
 # Instructor Data
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/instructor%20dashboard.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/instructor%20dashboard.png' />
 
 # My Courses 1
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/enrolled%20courses.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/enrolled%20courses.png' />
 
 # View Courses 1
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/view%20course%201.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/view%20course%201.png' />
 
 # View Courses 2
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/view%20course%202.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/view%20course%202.png' />
 
 # Delete Account
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/delete%20account.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/delete%20account.png' />
 
 # Footer
-<img width='100%' src='https://github.com/btechengg24/StudyNotion-ChadhuvuKundam/blob/main/screenshots/footer.png' />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/footer.png' />
