@@ -7,7 +7,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <code title="MERN"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/mern.png'"></code>
 
-<h2>Live link 🌍 - [https://studynotion-chadhuvukundam.onrender.com/]</h2>
+<h2>Live link 🌍 - [https://chadhuvu-kundam.onrender.com/]</h2>
 <hr/>
 
 <img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/home1.png' />
