@@ -3,14 +3,12 @@
 Chadhuvu Kundam is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
-<code title="MERN"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/mern.png'"></code>
-<code title="MERN"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/mern.png'"></code>
+<code title="MERN"><img height="40" src="https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/Tech%20stack%20logo/mern.png'">
+</code>
 
-<h2>Live link 🌍 - [https://chadhuvu-kundam.onrender.com/]</h2>
 <h2>Live link 🌍 - [https://chadhuvu-kundam.onrender.com/]</h2>
 <hr/>
 
-<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/home1.png' />
 <img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/home1.png' />
 
 ## Contributor
@@ -21,7 +19,6 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
         <a href="https://github.com/btechengg24" spellcheck="false">
           <img src="https://avatars.githubusercontent.com/u/151559011?v=4" width="120px;" alt="Likhit" style="border-radius: 5px;"/>
           <br />
-          <b text-align:center>G Likhit Reddy</b>
           <b text-align:center>G Likhit Reddy</b>
         </a>
         <br/>
@@ -77,16 +74,15 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <br/>
 ☝ The ChadhuvuKundam ed-tech platform consists of three main components:  <br/>
-☝ The ChadhuvuKundam ed-tech platform consists of three main components:  <br/>
 The front end, the back end, and the database. The platform follows a client-server architecture, with the front end serving as the client and the back end and database serving as the server.
 
-🎨 Front-end <br/>
+🎨 #Front-end <br/>
 The front end of the platform is built using ReactJS, which is a popular JavaScript library for building user interfaces. ReactJS allows for the creation of dynamic and responsive user interfaces also **Loading Skeleton**, which are critical for providing an engaging learning experience to the students. The front end communicates with the back end using RESTful API calls.
 
-⚙️ Back-end <br/>
+⚙️ #Back-end <br/>
 The back end of the platform is built using NodeJS and ExpressJS, which are popular frameworks for building scalable and robust server-side applications. The back end provides APIs for the front end to consume, which include functionalities such as user authentication, course creation, and course consumption. The back end also handles the logic for processing and storing the course content and user data.
 
-🛢️ Database <br/>
+🛢️ #Database <br/>
 The database for the platform is built using MongoDB, which is a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data, which is useful for storing course content such as videos, images, and PDFs. The database stores the course content, user data, and other relevant information related to the platform.
 
 #### The front end of ChadhuvuKundam has all the necessary pages that an ed-tech platform should have. Some of these pages are:
@@ -159,6 +155,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 <br/>
 
 ## React Library 📚
+
 ## React Library 📚
 
 - 🚀 **Lazy Loading**: Enhance performance by lazily loading images using the react-lazy-load-image library.
@@ -218,7 +215,7 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 # Add Review
 
-<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/add%20review.png />
+<img width='100%' src='https://github.com/btechengg24/Chadhuvu_Kundam/blob/main/screenshots/add%20review.png' />
 
 # Cart
 
